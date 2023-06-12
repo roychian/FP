@@ -550,7 +550,7 @@ void add_record()
 void feedback(int index_of_date,int index_of_move)
 {
     int prev_index = index_of_date - 1;
-    int rest_days = training_record[index_of_date].day - training_record[prev_index].day;
+    int rest_days = 30*(training_record[index_of_date].month - training_record[prev_index].month)+training_record[index_of_date].day - training_record[prev_index].day;
     int my_volume=training_record[index_of_date].move[index_of_move].set*training_record[index_of_date].move[index_of_move].weight*training_record[index_of_date].move[index_of_move].number;
     int expected_volume;
 
