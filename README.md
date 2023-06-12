@@ -23,7 +23,7 @@ You can sort your data with the six class of movement.
 (WARING! You can only input the data in order of time(namely,next input will be at least one day after the last input).)  
 
 ## 4)bucket list
-you can add bucketlist,delete bucketlist,search a class of movement of bucketlist,output all bucketlist here.  
+you can add bucketlist,delete bucketlist,search a class of movement in bucketlist,output all bucketlist here.  
 
 //end
 
