@@ -14,5 +14,10 @@ enter some profile to setup the appropriate data of movement.
 you can check all movement that are classified into six class(chest,leg,back,shoulder,arm,core).  
 There is a SDL window to demonstrate these movements.  
 (WARING! You have to close the SDL window before continue the proggram.)  
+You can also add record and add bucketlist here.
 
+## 3)training record  
+You can add record,output your record and sort it here.  
+After input the record,we will give you feedback about you training intensity and training frequency.  
+You can sort your data with the six class of movement.
 
