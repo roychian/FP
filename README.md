@@ -18,7 +18,7 @@ You can also add record and add bucketlist here.
 
 ## 3)training record  
 You can add record,output your record and sort it here.  
-After input the record,we will give you feedback about you training intensity and training frequency.  
+After input the record,we will give you feedback about your training intensity and training frequency.  
 You can sort your data with the six class of movement.  
 
 ## 4)bucket list
